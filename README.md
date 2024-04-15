@@ -1,7 +1,7 @@
 # arkan-satellite-imagery
-All the best* imagery I get from capturing weather satellite signal using RTL-SDR Blog V4 and SatDump
+All the best* imagery I get from capturing weather satellite signal using RTL-SDR Blog V4 w/ SPF5189Z and SatDump
 
-### My dekstop wallpaper (Meteor M2-3)
+### My desktop wallpaper (Meteor M2-3)
 ![Meteor M2-3](https://github.com/Blue7001/arkan-satellite-imagery/blob/main/Arkan.png?raw=true)
 
 ### Severe tropical cyclone Olga as seen by Meteor M2-4 Satellite on Tue 09 Apr 2024 11:17:57 PM WIB
